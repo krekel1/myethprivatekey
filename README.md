@@ -1,0 +1,2 @@
+# myethprivatekey
+my wallet
